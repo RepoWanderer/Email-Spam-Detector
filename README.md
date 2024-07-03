@@ -17,7 +17,6 @@ In order to perform an experiment I've combined two datasets (Enron email spam/h
 4. HTML5
 5. CSS
 6. Bootstrap-v4
-7. Love
 
 ### Installing/ Things you need to install the Web App and how to set up the project locally?
 
